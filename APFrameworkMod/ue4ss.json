@@ -1,0 +1,16 @@
+{
+  "options": [
+    {
+      "type": "github_release",
+      "repo": "Okaetsu/RE-UE4SS",
+      "tag": "experimental-palworld",
+      "note": "Recommended for Palworld — custom fork with PalSchema support"
+    },
+    {
+      "type": "manual",
+      "note": "Follow the installation guide for manual setup"
+    }
+  ],
+  "docs": "APFrameworkMod/ue4ss_setup.md",
+  "note": "UE4SS is required for PalSchema support."
+}
