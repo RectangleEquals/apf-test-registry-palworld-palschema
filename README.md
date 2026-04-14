@@ -4,7 +4,7 @@ Core APFramework mod for Palworld. This version includes a custom UE4SS configur
 
 ## Requirements
 
-- UE4SS (Palworld fork) — see [Installation Guide](./ue4ss_setup.md)
+- UE4SS (Palworld fork) — see [Installation Guide](./APFrameworkMod/ue4ss_setup.md)
 
 ## UE4SS Setup
 
