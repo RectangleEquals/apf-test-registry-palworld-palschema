@@ -1,0 +1,7 @@
+{
+    "mod_id": "spectrecular.palworld.faketestmod",
+    "name": "Fake Test Mod",
+    "version": "0.5.0",
+    "description": "Dummy mod used to test registry repo functionality",
+    "enabled": true
+}

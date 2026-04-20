@@ -1,0 +1,1 @@
+print("[FakeTestMod]: You shouldn't be seeing this. Why do you have this mod installed?")
