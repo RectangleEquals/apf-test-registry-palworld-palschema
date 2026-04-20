@@ -9,7 +9,7 @@
     },
     {
       "type": "manual",
-      "note": "Follow the installation guide for manual setup",
+      "note": "Follow the installation guide for manual setup -->",
 	  "docs": "APFrameworkMod/ue4ss_manual_setup.md"
     }
   ]
