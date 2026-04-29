@@ -3,5 +3,6 @@
     "name": "Fake Test Mod",
     "version": "0.5.0",
     "description": "Dummy mod used to test registry repo functionality",
-    "enabled": true
+    "enabled": true,
+	"depends": ["archipelago.palworld.framework"],
 }
